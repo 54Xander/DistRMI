@@ -1,6 +1,6 @@
 # DistRMI
 
-This is a Pytorch implementation of the paper:"DistRMI: deep distance-aware neural network for explainable RNA loop motif-small molecule interaction prediction"
+This is a Pytorch implementation of the paper:"DistRMI: a deep distance-aware neural network for explainable RNA loop motif-small molecule interaction prediction"
 
 ![framework]![framework](figures/framework.png)
 
