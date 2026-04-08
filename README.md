@@ -2,7 +2,7 @@
 
 This is a Pytorch implementation of the paper:"DistRMI: a deep distance-aware neural network for explainable RNA loop motif-small molecule interaction prediction"
 
-[framework](figures/framework.png)
+![framework](figures/framework.png)
 
 
 
